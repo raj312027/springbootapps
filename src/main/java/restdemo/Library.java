@@ -5,6 +5,7 @@ package restdemo;
 
 public class Library {
     public boolean someLibraryMethod() {
+        System.out.println();
         return true;
     }
 }
